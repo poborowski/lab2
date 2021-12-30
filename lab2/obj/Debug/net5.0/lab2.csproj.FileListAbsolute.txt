@@ -1,0 +1,90 @@
+C:\Users\Bartek\source\repos\lab2\lab2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bartek\source\repos\lab2\lab2\bin\Debug\net5.0\appsettings.json
+C:\Users\Bartek\source\repos\lab2\lab2\bin\Debug\net5.0\lab2.exe
+C:\Users\Bartek\source\repos\lab2\lab2\bin\Debug\net5.0\lab2.deps.json
+C:\Users\Bartek\source\repos\lab2\lab2\bin\Debug\net5.0\lab2.runtimeconfig.json
+C:\Users\Bartek\source\repos\lab2\lab2\bin\Debug\net5.0\lab2.runtimeconfig.dev.json
+C:\Users\Bartek\source\repos\lab2\lab2\bin\Debug\net5.0\lab2.dll
+C:\Users\Bartek\source\repos\lab2\lab2\bin\Debug\net5.0\ref\lab2.dll
+C:\Users\Bartek\source\repos\lab2\lab2\bin\Debug\net5.0\lab2.pdb
+C:\Users\Bartek\source\repos\lab2\lab2\bin\Debug\net5.0\lab2.Views.dll
+C:\Users\Bartek\source\repos\lab2\lab2\bin\Debug\net5.0\lab2.Views.pdb
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.csproj.AssemblyReference.cache
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.AssemblyInfoInputs.cache
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.AssemblyInfo.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.RazorAssemblyInfo.cache
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.RazorAssemblyInfo.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\staticwebassets\lab2.StaticWebAssets.Manifest.cache
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\staticwebassets\lab2.StaticWebAssets.xml
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\scopedcss\bundle\lab2.styles.css
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.TagHelpers.input.cache
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.TagHelpers.output.cache
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.RazorCoreGenerate.cache
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\Form\Create.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\Form\Created.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\Form\Index.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\Home\Test2.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\Home\Test3.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.RazorTargetAssemblyInfo.cache
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.RazorTargetAssemblyInfo.cs
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.Views.pdb
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.dll
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\ref\lab2.dll
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.pdb
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.genruntimeconfig.cache
+C:\Users\Bartek\source\repos\lab2\lab2\obj\Debug\net5.0\lab2.csproj.CopyComplete
+C:\Users\Bartek\Desktop\Nowy folder\lab2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bartek\Desktop\Nowy folder\lab2\bin\Debug\net5.0\appsettings.json
+C:\Users\Bartek\Desktop\Nowy folder\lab2\bin\Debug\net5.0\lab2.exe
+C:\Users\Bartek\Desktop\Nowy folder\lab2\bin\Debug\net5.0\lab2.deps.json
+C:\Users\Bartek\Desktop\Nowy folder\lab2\bin\Debug\net5.0\lab2.runtimeconfig.json
+C:\Users\Bartek\Desktop\Nowy folder\lab2\bin\Debug\net5.0\lab2.runtimeconfig.dev.json
+C:\Users\Bartek\Desktop\Nowy folder\lab2\bin\Debug\net5.0\lab2.dll
+C:\Users\Bartek\Desktop\Nowy folder\lab2\bin\Debug\net5.0\ref\lab2.dll
+C:\Users\Bartek\Desktop\Nowy folder\lab2\bin\Debug\net5.0\lab2.pdb
+C:\Users\Bartek\Desktop\Nowy folder\lab2\bin\Debug\net5.0\lab2.Views.dll
+C:\Users\Bartek\Desktop\Nowy folder\lab2\bin\Debug\net5.0\lab2.Views.pdb
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.csproj.AssemblyReference.cache
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.AssemblyInfoInputs.cache
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.AssemblyInfo.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.RazorAssemblyInfo.cache
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.RazorAssemblyInfo.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\staticwebassets\lab2.StaticWebAssets.Manifest.cache
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\staticwebassets\lab2.StaticWebAssets.xml
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\scopedcss\bundle\lab2.styles.css
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.TagHelpers.input.cache
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.TagHelpers.output.cache
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.RazorCoreGenerate.cache
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\Form\Create.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\Form\Created.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\Form\Index.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\Home\Test2.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\Home\Test3.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.RazorTargetAssemblyInfo.cache
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.RazorTargetAssemblyInfo.cs
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.Views.pdb
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.dll
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\ref\lab2.dll
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.pdb
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.genruntimeconfig.cache
+C:\Users\Bartek\Desktop\Nowy folder\lab2\obj\Debug\net5.0\lab2.csproj.CopyComplete

@@ -1,0 +1,23 @@
+﻿@model lab2_test.Models.FormModel
+@{
+    ViewData["Title"] = "Form-Created";
+
+}
+
+<div class="text-left">
+    <h1 class="display-4">Data</h1>
+    @Html.DisplayNameFor(model => model.Name):          @Html.DisplayFor(model => model.Name)
+
+
+<p>
+    od wybranej daty do teraz upłyneło:
+    @{
+        TimeSpan roznica = DateTime.Now - Model.Description;
+    }
+    @roznica.Days
+    dni.
+  
+</p>
+
+</div>
+
